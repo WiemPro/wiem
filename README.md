@@ -1,6 +1,20 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
 
 <h1 align="center">Hi 👋, I'm Wiem BOUGHANMI</h1>
+<h3 align="center" > An embedded systems developer is a professional who specializes in designing, developing, and maintaining software for embedded systems. 
+These systems are typically small, self-contained computers that are integrated into larger devices or systems.</h3> 
+<h3 align="left" > 
+  
+Some examples of embedded systems include:
+  
+‣ Microcontrollers in appliances
+  
+‣ Computers in cars
+
+‣ Medical devices
+
+‣ Industrial automation systems </h3>
+
 <h3 align="center">Embedded systems enthusiast. Building the future, one line of code at a time.</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
