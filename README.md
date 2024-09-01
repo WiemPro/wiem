@@ -7,13 +7,13 @@ These systems are typically small, self-contained computers that are integrated 
   
 Some examples of embedded systems include:
   
-‣ Microcontrollers in appliances
+‣ Microcontrollers in appliances.
   
-‣ Computers in cars
+‣ Computers in cars.
 
-‣ Medical devices
+‣ Medical devices.
 
-‣ Industrial automation systems </h3>
+‣ Industrial automation systems. </h3>
 
 <h3 align="center">Embedded systems enthusiast. Building the future, one line of code at a time.</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
